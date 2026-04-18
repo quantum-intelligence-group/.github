@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Meridian conventions
+    url: https://github.com/quantum-intelligence-group/meridian/blob/main/MERIDIAN_CONVENTIONS.md
+    about: Shared rules across Meridian repos — read before filing cross-repo issues.
